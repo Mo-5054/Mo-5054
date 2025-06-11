@@ -66,8 +66,8 @@ I specialize in:
 ## 🏆 Certifications
 
 - **AWS Certified Cloud Practitioner** (06/2025)
-- **HCCDA-Tech Essentials Huawei Cloud Developer** (02/2025)  
-- **Red Hat Certified System Administrator (RHCSA)** (04/2025)   
+- **Red Hat Certified System Administrator (RHCSA)** (04/2025)  
+- **HCCDA-Tech Essentials Huawei Cloud Developer** (02/2025)   
 
 ---
 
