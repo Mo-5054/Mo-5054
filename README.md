@@ -65,10 +65,9 @@ I specialize in:
 
 ## 🏆 Certifications
 
+- **AWS Certified Cloud Practitioner** (06/2025)
 - **HCCDA-Tech Essentials Huawei Cloud Developer** (02/2025)  
-- **Red Hat Certified System Administrator (RHCSA)** (In Progress)  
-- ITI Embedded Systems (07/2023 – 08/2023)  
-- AMIT Embedded Systems Diploma (08/2023 – 12/2023)  
+- **Red Hat Certified System Administrator (RHCSA)** (04/2025)   
 
 ---
 
